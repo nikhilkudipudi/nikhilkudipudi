@@ -19,7 +19,6 @@
 
 
 
-<h3 align="left">Connect with me:</h   **nikhilvijaykumarkudipudi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" padding="50px">
